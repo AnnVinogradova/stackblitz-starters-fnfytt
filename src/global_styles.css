@@ -1,0 +1,25 @@
+/* Add application styles & imports to this file! */
+nav{
+  display: flex;
+  justify-content: center;
+}
+
+a{
+  margin: 40px;
+}
+
+h2{
+  text-align: center;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+  display: flex;
+}
